@@ -14,7 +14,7 @@ with oh-my-zsh and Agnoster theme.
 5. Install Babun from babun.github.io (ignore the "HOME variable set" warning and install anyway)
 
 ## Screenshot
-![Screenshot](https://github.com/Koelli91/babun-agnoster/raw/master/screenshot.png "Screenshot")
+![Screenshot](https://github.com/Koelli91/babun-agnoster/raw/master/screenshot.png "Screenshot of Babun with Agnoster theme")
 
 ## Credits
 - [Babun](https://babun.github.io/)
