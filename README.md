@@ -3,7 +3,7 @@ This is my install and config for Babun on Windows
 with oh-my-zsh and Agnoster theme.
 
 ## Installation
-1. Create Windows environment variable "HOME" with value "C:\Users\\<your-username>"
+1. Create Windows environment variable "HOME" with value "C:\Users\\\<your-username\>"
 2. Copy .babunrc, .minttyrc and .zshrc to your User home (same as in (1)).
 3. Set DEFAULT_USER in .zshrc to your username
 4. Install the Powerline fonts provided with this package
