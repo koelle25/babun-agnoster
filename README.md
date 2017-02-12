@@ -10,7 +10,7 @@ with oh-my-zsh and Agnoster theme.
 
    Alternative:
    Put the fonts somewhere for permanent storage and _after_ Babun installation (see (5)) run following command from Windows cmd:
-   <babun-install-directory>\fonts\RegisterFont.exe add "<path-to-powerline-fonts>\DejaVu Sans Mono for Powerline.ttf"
+   \<babun-install-directory\>\fonts\RegisterFont.exe add "\<path-to-powerline-fonts\>\DejaVu Sans Mono for Powerline.ttf"
 5. Install Babun from babun.github.io (ignore the "HOME variable set" warning and install anyway)
 
 ## Screenshot
